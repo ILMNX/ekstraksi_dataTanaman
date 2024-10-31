@@ -1,0 +1,130 @@
+{
+    "plants": [
+        {
+            "nama_tanaman": "Bawang Merah",
+            "ketinggian_tempat": "0 - 450",
+            "curah_hujan": "25 - 250",
+            "bulan_tanam": [
+                "April",
+                "Mei",
+                "Juli",
+                "Agustus",
+                "Oktober",
+                "November"
+            ]
+        },
+        {
+            "nama_tanaman": "Bawang Putih",
+            "ketinggian_tempat": "700 - 1500",
+            "curah_hujan": "110 - 200",
+            "bulan_tanam": [
+                "Mei",
+                "Juni",
+                "Juli"
+            ]
+        },
+        {
+            "nama_tanaman": "Cabai",
+            "ketinggian_tempat": "0 - 1000",
+            "curah_hujan": "100 - 200",
+            "bulan_tanam": [
+                "Juli",
+                "Agustus",
+                "September",
+                "Oktober"
+            ]
+        },
+        {
+            "nama_tanaman": "Jagung",
+            "ketinggian_tempat": "0 - 600",
+            "curah_hujan": "85 - 200",
+            "bulan_tanam": [
+                "Maret",
+                "Juni",
+                "Oktober",
+                "Desember"
+            ]
+        },
+        {
+            "nama_tanaman": "Kedelai",
+            "ketinggian_tempat": "0 - 600",
+            "curah_hujan": "100 - 400",
+            "bulan_tanam": [
+                "April",
+                "Mei",
+                "Juni",
+                "Juli",
+                "Agustus"
+            ]
+        },
+        {
+            "nama_tanaman": "Kentang",
+            "ketinggian_tempat": "500 - 3000",
+            "curah_hujan": "200 - 300",
+            "bulan_tanam": [
+                "April",
+                "Mei",
+                "Oktober",
+                "November"
+            ]
+        },
+        {
+            "nama_tanaman": "Kubis/Kol",
+            "ketinggian_tempat": "0 - 1000",
+            "curah_hujan": "70 - 100",
+            "bulan_tanam": [
+                "September",
+                "Oktober",
+                "November"
+            ]
+        },
+        {
+            "nama_tanaman": "Padi/Beras",
+            "ketinggian_tempat": "0 - 1000",
+            "curah_hujan": "80 - 170",
+            "bulan_tanam": [
+                "April",
+                "Mei",
+                "Juni",
+                "Oktober",
+                "November",
+                "Desember"
+            ]
+        },
+        {
+            "nama_tanaman": "Tomat",
+            "ketinggian_tempat": "0 - 1500",
+            "curah_hujan": "100 - 220",
+            "bulan_tanam": [
+                "Juni",
+                "Juli",
+                "Agustus"
+            ]
+        },
+        {
+            "nama_tanaman": "Wortel",
+            "ketinggian_tempat": "800 - 1500",
+            "curah_hujan": "70 - 100",
+            "bulan_tanam": [
+                "Oktober",
+                "November",
+                "Desember",
+                "Januari",
+                "Februari",
+                "Maret"
+            ]
+        }
+    ],
+    "rules": [
+        "Rule 1: Tanaman Bawang Merah dapat ditanam di ketinggian 0 - 450 mdpl dengan curah hujan 25 - 250 mm/bulan pada bulan April, Mei, Juli, Agustus, Oktober, November.",
+        "Rule 2: Tanaman Bawang Putih dapat ditanam di ketinggian 700 - 1500 mdpl dengan curah hujan 110 - 200 mm/bulan pada bulan Mei, Juni, Juli.",
+        "Rule 3: Tanaman Cabai dapat ditanam di ketinggian 0 - 1000 mdpl dengan curah hujan 100 - 200 mm/bulan pada bulan Juli, Agustus, September, Oktober.",
+        "Rule 4: Tanaman Jagung dapat ditanam di ketinggian 0 - 600 mdpl dengan curah hujan 85 - 200 mm/bulan pada bulan Maret, Juni, Oktober, Desember.",
+        "Rule 5: Tanaman Kedelai dapat ditanam di ketinggian 0 - 600 mdpl dengan curah hujan 100 - 400 mm/bulan pada bulan April, Mei, Juni, Juli, Agustus.",
+        "Rule 6: Tanaman Kentang dapat ditanam di ketinggian 500 - 3000 mdpl dengan curah hujan 200 - 300 mm/bulan pada bulan April, Mei, Oktober, November.",
+        "Rule 7: Tanaman Kubis/Kol dapat ditanam di ketinggian 0 - 1000 mdpl dengan curah hujan 70 - 100 mm/bulan pada bulan September, Oktober, November.",
+        "Rule 8: Tanaman Padi/Beras dapat ditanam di ketinggian 0 - 1000 mdpl dengan curah hujan 80 - 170 mm/bulan pada bulan April, Mei, Juni, Oktober, November, Desember.",
+        "Rule 9: Tanaman Tomat dapat ditanam di ketinggian 0 - 1500 mdpl dengan curah hujan 100 - 220 mm/bulan pada bulan Juni, Juli, Agustus.",
+        "Rule 10: Tanaman Wortel dapat ditanam di ketinggian 800 - 1500 mdpl dengan curah hujan 70 - 100 mm/bulan pada bulan Oktober, November, Desember, Januari, Februari, Maret."
+    ]
+}
